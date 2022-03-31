@@ -1,1 +1,1 @@
-# Currently i am working in this project 
+# A project for sentimental analysis using ML
